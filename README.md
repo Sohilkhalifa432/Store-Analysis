@@ -113,13 +113,14 @@ store-analysis/
 ---
 
 
+
 ## 📺 Live Dashboard
  
 🔗 **[View Tableau Dashboard](https://public.tableau.com/app/profile/sohil.khalifa8336/viz/Book2_17764467951850/Dashboard3?publish=yes)**
  
 Interactive dashboard built on Tableau Public — explore store performance, property type breakdown, and revenue trends visually.
  
----
+![Store Analysis Dashboard](https://github.com/Sohilkhalifa432/Store-Analysis/blob/main/SUPER%20STORE/Dashboard%203.png?raw=true)
 
 
 ## 👤 Author
