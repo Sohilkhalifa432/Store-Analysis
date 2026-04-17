@@ -1,5 +1,4 @@
-# Store-Analysis
-A comprehensive data analysis project that examines store performance metrics and customer insights. Built with Python, Pandas, and Tableau, this dashboard provides actionable business intelligence on sales trends, inventory patterns, and customer behaviour.
+🏪 Retail data analysis project uncovering what actually drives store revenue. From property type profitability to checkout counter optimization — every insight backed by data, every finding tied to a business decision.
 
 # 🏪 Store Data Analysis
 
