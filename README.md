@@ -121,12 +121,4 @@ Interactive dashboard built on Tableau Public — explore store performance, pro
  
 ![Store Analysis Dashboard](https://github.com/Sohilkhalifa432/Store-Analysis/blob/main/SUPER%20STORE/Dashboard%203.png?raw=true)
 
-
-## 👤 Author
-
-**[Sohil khalifa]** — Data Analyst
-[GitHub](https://github.com/sohilkhalifa432) · [LinkedIn](https://linkedin.com/in/sohilkhalifa)
-
----
-
 > ⭐ If you found this project useful, consider starring the repository!
